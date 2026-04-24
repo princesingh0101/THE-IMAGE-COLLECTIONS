@@ -1,0 +1,14 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Mobile body -->
+  <rect x="35" y="15" width="50" height="90" rx="14" stroke="#BFBFBF" stroke-width="6"></rect>
+
+  <!-- Top notch / speaker -->
+  <rect x="50" y="22" width="20" height="4" rx="2" fill="#BFBFBF"></rect>
+
+  <!-- Two dots (same style as previous icon) -->
+  <rect x="50" y="45" width="6" height="16" rx="3" fill="#BFBFBF"></rect>
+  <rect x="64" y="45" width="6" height="16" rx="3" fill="#BFBFBF"></rect>
+
+  <!-- Bottom line (gesture bar style) -->
+  <rect x="50" y="90" width="20" height="5" rx="2.5" fill="#BFBFBF"></rect>
+</svg>

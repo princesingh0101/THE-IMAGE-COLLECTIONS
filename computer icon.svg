@@ -1,0 +1,11 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer rounded rectangle -->
+  <rect x="20" y="20" width="80" height="60" rx="12" stroke="#BFBFBF" stroke-width="6"></rect>
+
+  <!-- Two dots -->
+  <rect x="45" y="40" width="6" height="16" rx="3" fill="#BFBFBF"></rect>
+  <rect x="69" y="40" width="6" height="16" rx="3" fill="#BFBFBF"></rect>
+
+  <!-- Bottom line -->
+  <rect x="30" y="90" width="60" height="6" rx="3" fill="#BFBFBF"></rect>
+</svg>
