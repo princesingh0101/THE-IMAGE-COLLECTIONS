@@ -1,0 +1,17 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g stroke="#1E6BFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" transform="rotate(90 128 128)">
+    
+    <!-- Key Head -->
+    <circle cx="128" cy="72" r="36"></circle>
+
+    <!-- Key Hole -->
+    <circle cx="128" cy="72" r="8" fill="#1E6BFF" stroke="none"></circle>
+
+    <!-- Key Stem -->
+    <path d="M128 108V196"></path>
+
+    <!-- Key Teeth -->
+    <path d="M128 140L152 156L128 172"></path>
+
+  </g>
+</svg>
