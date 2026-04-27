@@ -1,0 +1,17 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Main circle -->
+  <circle cx="12" cy="12" r="9"></circle>
+
+  <!-- Holes -->
+  <circle cx="12" cy="6" r="1.6" fill="black"></circle>
+  <circle cx="16" cy="8.5" r="1.6" fill="black"></circle>
+  <circle cx="16" cy="15.5" r="1.6" fill="black"></circle>
+  <circle cx="12" cy="18" r="1.6" fill="black"></circle>
+  <circle cx="8" cy="15.5" r="1.6" fill="black"></circle>
+  <circle cx="8" cy="8.5" r="1.6" fill="black"></circle>
+
+  <!-- Center hole -->
+  <circle cx="12" cy="12" r="1.2" fill="black"></circle>
+
+</svg>
